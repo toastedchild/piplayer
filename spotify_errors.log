@@ -1,0 +1,24 @@
+2024-08-12 15:10:49,751 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/me/player with Params: {'market': None, 'additional_types': None} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:10:49,752 - ERROR - Error updating UI: http status: 403, code:-1 - https://api.spotify.com/v1/me/player:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:11:10,602 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:11:10,602 - ERROR - Error resuming playback: http status: 403, code:-1 - https://api.spotify.com/v1/me/player/play:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:11:26,808 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:11:26,808 - ERROR - Error resuming playback: http status: 403, code:-1 - https://api.spotify.com/v1/me/player/play:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:11:27,808 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/me/player/pause with Params: {} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:11:27,808 - ERROR - Error pausing playback: http status: 403, code:-1 - https://api.spotify.com/v1/me/player/pause:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:15:45,717 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/me/player with Params: {'market': None, 'additional_types': None} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:15:45,717 - ERROR - Error updating UI: http status: 403, code:-1 - https://api.spotify.com/v1/me/player:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:15:54,475 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/me/player/devices with Params: {} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:15:54,475 - ERROR - Error getting devices: http status: 403, code:-1 - https://api.spotify.com/v1/me/player/devices:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:16:15,630 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/me/player/devices with Params: {} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:16:15,631 - ERROR - Error getting devices: http status: 403, code:-1 - https://api.spotify.com/v1/me/player/devices:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
+2024-08-12 15:21:14,526 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/me/player with Params: {'market': None, 'additional_types': None} returned 403 due to Check settings on developer.spotify.com/dashboard, the user may not be registered.
+2024-08-12 15:21:14,527 - ERROR - Error updating UI: http status: 403, code:-1 - https://api.spotify.com/v1/me/player:
+ Check settings on developer.spotify.com/dashboard, the user may not be registered., reason: None
